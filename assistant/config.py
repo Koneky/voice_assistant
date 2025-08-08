@@ -5,7 +5,7 @@ import os
 DEFAULT_CONFIG = {
     "voice": 0,
     "language": "ru-RU",
-    "wake_word": "Ассистент",
+    "wake_word": "Хермеус",
     "tts_engine": "pyttsx3",
     "stt_engine": "speech_recogition"
 }
