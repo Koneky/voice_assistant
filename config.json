@@ -1,0 +1,13 @@
+{
+    "voices": {
+        "morra": {
+            "model": "resources/voices/morra_model.pth",
+            "wake_word": "resources/wake_words/morra.wav"
+        },
+        "default": {
+            "model": "resources/voices/default.pth",
+            "wake_word": "resources/wake_words/hello.wav"
+        }
+    },
+    "current_voice": "default"
+}
